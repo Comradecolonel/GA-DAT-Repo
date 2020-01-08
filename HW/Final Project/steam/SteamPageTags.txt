@@ -1,0 +1,52 @@
+Title
+
+title
+
+
+Recent Reviews
+
+nonresponsive_hidden responsive_reviewdesc #first text
+
+All Reviews
+
+nonresponsive_hidden responsive_reviewdesc #second text
+
+Release Date
+
+date
+
+
+Developer
+
+dev_row a #first element
+
+
+Publisher
+
+dev_row a #second element
+
+
+Price
+
+game_purchase_price
+
+
+Game detail tags
+
+game_area_details_specs
+
+
+Genre
+
+details_block Also contains publisher and developer
+
+
+Metacritic Score
+
+score high #need to using xpath to get this.
+
+
+
+Number of Reviews
+
+responsive_hidden
